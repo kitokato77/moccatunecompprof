@@ -101,4 +101,8 @@ nav ul li a {
     background:#f9f9f9;
   }
   
-  
+  #section-c div {
+    flex: 1;
+    margin: 0;
+    padding: 20px;
+}
